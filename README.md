@@ -71,3 +71,24 @@ authflow-ui-project/
 │   └── script.js
 │
 └── README.md
+
+
+
+
+
+
+## Testing Summary
+
+The project was tested across different pages to ensure proper navigation, layout consistency, and user experience.
+
+### Tests Performed
+- Landing page navigation testing
+- Login page validation testing
+- Signup page form testing
+- Forgot password page testing
+- Link verification
+- Responsive layout verification
+
+### Result
+All pages functioned correctly and no critical issues were identified.
+Added by Abdulmunaf Ibrahim NAS/STE/21/1102 
