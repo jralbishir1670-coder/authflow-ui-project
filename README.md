@@ -106,3 +106,7 @@ The project interface was reviewed across multiple screen sizes including mobile
 
 ### Result
 The application maintains usability and visual consistency across supported devices.
+
+## Accessibility and Code Quality
+
+The project was reviewed to improve accessibility and maintainable code practices. Form labels, semantic HTML structure, consistent formatting, and user interface improvements were applied to provide a better user experience and improve code readability. BY NAS/STE/21/1091
