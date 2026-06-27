@@ -106,3 +106,25 @@ The project interface was reviewed across multiple screen sizes including mobile
 
 ### Result
 The application maintains usability and visual consistency across supported devices.
+
+### Sign in and log in section 
+
+- Email input field
+- Password input field
+- Remember Me option
+- Login button
+- Forgot Password link
+
+Signup Page
+
+- Full Name field
+- Email field
+- Password field
+- Confirm Password field
+- Create Account button
+
+Forgot Password Page
+
+- Email input field
+- Password reset request form
+- Back to Login link
